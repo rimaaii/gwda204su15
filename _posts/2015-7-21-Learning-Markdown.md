@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Learning Markdown
 ## Easy text to HTML formatting
 
